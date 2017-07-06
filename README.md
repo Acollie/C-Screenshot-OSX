@@ -13,3 +13,4 @@ Currently only works on MacOS
 <p>5. Then type ./A.out and it should run the program</p>
 <p> <b>Or</b> You can remove the .out from the a.out and double click the file.</p>
 
+<b>Please note to exit the program, you need to Terminate the process you can do this by closing the terminal window.</b>
